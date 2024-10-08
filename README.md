@@ -29,3 +29,5 @@ You can click the Preview link to take a look at your changes.
     <text x="58.5" y="14">Nel</text>
   </g>
 </svg>
+
+![Vivienne: Nel](path-to-your-svg-file.svg)
