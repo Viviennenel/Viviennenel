@@ -20,8 +20,21 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/-Studies:-92a8d1" width="120">
 </div>
 
-- **Current Degree**: Completing last year BSc in Computer Science  
+- **Current Degree**:
+    - BSc Molecular Biology and Biotechnology
+    - Progress: BSc (HONS) Genetics  
 - **University**: Stellenbosch University
+
+- - **Current Project**:
+    - Associaton of Glutamatergic genes and white matter deteriortation in Sub-saharan african individuals presenting with severe obsessive-compulsive disorder (OCD): A focus on the anterior-cingulate cortex
+    - >Plink, R, Python, Jupyter, Matlab
+- **University**: Stellenbosch University
+
+- - **Courses**:
+    - DNA Sequencing Algorithms: John Hopkins University [12/23]
+    - Teacher of English To Speakers Of Other Languages (TEFL) [08/22)
+    - 7 courses in 1 - Business course [06/21]
+      
 
 ---
 
