@@ -50,31 +50,47 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <img src="https://img.shields.io/badge/Genetic-tools%20I%20am%20experienced%20with:-ffcc5c" width="300">
 </div>
-<a href="https://zzz.bwh.harvard.edu/plink/" target="_blank" rel="noreferrer">
-    <img src="https://your-image-source/plink-icon.png" alt="PLINK" width="40" height="40"/> </a>
-
+<a href="https://www.ensembl.org/index.html" target="_blank" rel="noreferrer">
+    <img src="https://www.ensembl.org/img/ensembl_logo.svg" alt="Ensembl" width="40" height="40"/>
+</a>
+<a href="https://www.ncbi.nlm.nih.gov/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ncbi_logo.svg/2560px-Ncbi_logo.svg.png" alt="NCBI" width="40" height="40"/>
+</a>
 <a href="https://www.qiagen.com/clc-workbench/" target="_blank" rel="noreferrer">
-    <img src="https://your-image-source/clc-icon.png" alt="CLC Workbench" width="40" height="40"/> </a>
+    <img src="https://www.qiagen.com/us/images/8dd59b6c4fd9456c862e68ff8b2c3d48.svg" alt="CLC Workbench" width="40" height="40"/>
+</a>
 <a href="https://pymol.org/2/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/PyMOL_logo.png" alt="PyMOL" width="40" height="40"/> </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/PyMOL_logo.png" alt="PyMOL" width="40" height="40"/>
+</a>
 <a href="https://www.cog-genomics.org/plink/" target="_blank" rel="noreferrer">
-    <img src="https://www.cog-genomics.org/static/img/plink_large.png" alt="PLINK" width="40" height="40"/> </a>
+    <img src="https://www.cog-genomics.org/static/img/plink_large.png" alt="PLINK" width="40" height="40"/>
+</a>
 <a href="https://www.ncbi.nlm.nih.gov/snp/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ncbi_logo.svg/2560px-Ncbi_logo.svg.png" alt="dbSNP" width="40" height="40"/> </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ncbi_logo.svg/2560px-Ncbi_logo.svg.png" alt="dbSNP" width="40" height="40"/>
+</a>
 <a href="https://www.megasoftware.net/" target="_blank" rel="noreferrer">
-    <img src="https://www.megasoftware.net/images/megalogo.png" alt="Mega" width="40" height="40"/> </a>
+    <img src="https://www.megasoftware.net/images/megalogo.png" alt="Mega" width="40" height="40"/>
+</a>
 <a href="http://popart.otago.ac.nz/" target="_blank" rel="noreferrer">
-    <img src="http://popart.otago.ac.nz/images/popart_logo.png" alt="PopART" width="40" height="40"/> </a>
+    <img src="http://popart.otago.ac.nz/images/popart_logo.png" alt="PopART" width="40" height="40"/>
+</a>
 <a href="https://www.cibnor.mx/neestimator/" target="_blank" rel="noreferrer">
-    <img src="https://www.cibnor.mx/neestimator/images/logo.png" alt="NeEstimator" width="40" height="40"/> </a>
+    <img src="https://www.cibnor.mx/neestimator/images/logo.png" alt="NeEstimator" width="40" height="40"/>
+</a>
 <a href="https://github.com/solisleon/MStools" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/solisleon/MStools/master/logo.png" alt="MStools" width="40" height="40"/> </a>
+    <img src="https://raw.githubusercontent.com/solisleon/MStools/master/logo.png" alt="MStools" width="40" height="40"/>
+</a>
 <a href="https://genaix.eu/" target="_blank" rel="noreferrer">
-    <img src="https://genaix.eu/images/genaix_logo.png" alt="GenAIX" width="40" height="40"/> </a>
-<a href="https://www.qiagen.com/us/shop/biological-research/next-generation-sequencing/analysis-software/clc-genomics-workbench/" target="_blank" rel="noreferrer">
-    <img src="https://www.qiagen.com/us/images/8dd59b6c4fd9456c862e68ff8b2c3d48.svg" alt="CLC Sequencer" width="40" height="40"/> </a>
+    <img src="https://genaix.eu/images/genaix_logo.png" alt="GenAIX" width="40" height="40"/>
+</a>
 <a href="https://www.ebi.ac.uk/~matthew/treefit/" target="_blank" rel="noreferrer">
-    <img src="https://www.ebi.ac.uk/~matthew/images/treefit_logo.png" alt="Treefit" width="40" height="40"/> </a>
+    <img src="https://www.ebi.ac.uk/~matthew/images/treefit_logo.png" alt="Treefit" width="40" height="40"/>
+</a>
+
+
+
+
+
 
 
 
