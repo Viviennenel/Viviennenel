@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - **Current Degree**:
     - BSc Molecular Biology and Biotechnology
-    - Progress: BSc (HONS) Genetics  
+    - BSc (HONS) Genetics  
 - **University**: Stellenbosch University
 
 - **Current Project**:
